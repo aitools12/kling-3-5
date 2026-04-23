@@ -1,0 +1,27 @@
+{
+  "name": "aitools12/kling-3-5",
+  "description": "Kling 3.5 metadata package for the official AI video generator website.",
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://www.kling35.org",
+  "keywords": [
+    "kling-3-5",
+    "kling-3",
+    "ai-video",
+    "text-to-video",
+    "image-to-video"
+  ],
+  "autoload": {
+    "psr-4": {
+      "Kling35\\": "src/"
+    }
+  },
+  "support": {
+    "source": "https://github.com/aitools12/kling-3-5",
+    "issues": "https://www.kling35.org",
+    "docs": "https://aitools12.github.io/kling-3-5/"
+  },
+  "require": {
+    "php": ">=8.0"
+  }
+}
